@@ -12,12 +12,6 @@
 # The greatest decrease in profits (date and amount) over the entire period
 
 
-
-
-
-
-
-
 import os
 
 # Module for reading CSV files
